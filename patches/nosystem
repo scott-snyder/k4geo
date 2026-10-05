@@ -1,7 +1,7 @@
-Bottom: fa34fb10e55688c39e80881f997177103e41ddd0
-Top:    24616952fdac06cba47d4eb1d6533a360a4fab75
+Bottom: 7c192946532f0a91f99a2434125dfcb9abc80dc5
+Top:    7c192946532f0a91f99a2434125dfcb9abc80dc5
 Author: sss <sss@karma>
-Date:   2026-09-09 12:02:01 -0400
+Date:   2026-10-05 18:37:57 -0400
 
 Make headers available with SYSTEM turned off.
 
